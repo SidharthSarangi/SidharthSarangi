@@ -1,4 +1,5 @@
-## Hi there 👋, I'm is Sidharth
+![Sid](https://s6.gifyu.com/images/ezgif.com-gif-makerbdaf303e7537fc8b.gif)
+
 I am a student passionate about learning new Technologies and interested in contributing more towards open-source and commit some changes.
 
 
