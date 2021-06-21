@@ -1,5 +1,5 @@
 ## Hi there 👋, I'm is Sidharth
-I am a student passionate about learning new Technologies and interested in contributing to open-source and commit some changes.
+I am a student passionate about learning new Technologies and interested in contributing more towards open-source and commit some changes.
 
 
 
